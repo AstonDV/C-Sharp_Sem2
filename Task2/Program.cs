@@ -8,4 +8,4 @@ int a3 = num % 10;
 
 int newNum = (a1 * 10) + a3;
 
-Console.WriteLine($"после удаления второй цифры числа {num} получаем число {newNum}");
+Console.WriteLine($"После удаления второй цифры числа {num} получаем число {newNum}");
